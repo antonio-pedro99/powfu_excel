@@ -16,7 +16,7 @@ def save(my_wb):
     ''' 
     Helper function to save the current workbook
     Parametre:
-        - Receive an WorkBook object
+        - Receive ann WorkBook object
     '''
     my_wb.save(filename = "data.xlsx")
 
